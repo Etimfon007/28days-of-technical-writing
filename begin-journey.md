@@ -1,15 +1,15 @@
 <h1>28days of Technical Writing</h1>
 
 
-[✍️ Your Name]'s Technical Writing Journey
+Etimfon Ikpong's Technical Writing Journey
 
-Introduction
+Open Source contributor. Technical at SmartDeployer
 
 _____________________
 **Your Socials**
 
-✍️ Link to your Twitter
-✍️ Link to your LinkedIn
+✍️ https://twitter.com/whoisetimfon?s=09
+
 
 ___
 
