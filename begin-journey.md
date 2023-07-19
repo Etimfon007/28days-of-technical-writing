@@ -1,15 +1,15 @@
 <h1>28days of Technical Writing</h1>
 
 
-[✍️ Your Name]'s Technical Writing Journey
+Etimfon Ikpong's Technical Writing Journey
 
 Introduction
-
+Technical Writer, Open-Source Contributor, Front-end developer. 
 _____________________
 **Your Socials**
 
-✍️ Link to your Twitter
-✍️ Link to your LinkedIn
+Twitter:  https://twitter.com/whoisetimfon?s=09
+
 
 ___
 
