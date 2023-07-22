@@ -14,4 +14,4 @@ Also, don't forget to **create a PR** for adding your name to this list of parti
 |    Serial No.    |      Name :medal_military:    |     Social Media :wave:    | GitHub :octocat: | About |
 |:-------------:|:-----------------------|---------------------|----------------------|--------------------|
 | 1. | Vanshika Srivastava | 🐦[Twitter](https://twitter.com/ThisisVanshika) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/vanshikasrivastava/) |[@vanshika-srivastava](https://github.com/vanshika-srivastava) | DevRel Engineer @Biconomy , Tech Evangelist and Open Source Advocate
-
+| 2. | Etimfon Ikpong | 🐦[Twitter](https://twitter.com/whoisetimfon?s=09) | [Etimfon007](https://github.com/Etimfon007) | Open Source Contributor, Technical Writer. 
